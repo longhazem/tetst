@@ -1,0 +1,4 @@
+local function hello()
+print("hello")
+print("hi")
+end
